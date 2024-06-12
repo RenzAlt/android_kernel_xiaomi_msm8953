@@ -909,7 +909,7 @@
 		};
 
 		nfc {
-			nfc_int_active: nfc_int_active {
+			nfc_int_active: nfc_int_active { 
 				/* active state */
 				mux {
 					/* GPIO 17 NFC Read Interrupt */
